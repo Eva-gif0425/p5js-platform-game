@@ -19,4 +19,4 @@
 - 空白鍵 / ↑：跳躍
 
 ## 🎮 遊戲連結
-- 👉 Play the game: [https://xxxx.github.io/xxx](https://editor.p5js.org/16eva1115/full/9tP0CO3LS)
+- 👉 Play the game: https://editor.p5js.org/eva_0.0/full/9tP0CO3LS
